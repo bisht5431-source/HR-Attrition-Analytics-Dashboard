@@ -115,10 +115,3 @@ The goal is to help HR leaders and business stakeholders **reduce unwanted attri
 | ![DAX](https://img.shields.io/badge/DAX-FFB600?style=flat-square&logo=microsoft&logoColor=black) | Measures & calculated columns |
 | ![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Data cleaning & transformation |
 
----
-
-## 🚀 How to Use This Project
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/HR-Attrition-Analytics-Dashboard.git
